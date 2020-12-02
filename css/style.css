@@ -1,0 +1,38 @@
+/* global css */
+body{
+    margin: 0px;
+}
+/* header wrap start */
+.header-wrap{
+    min-height: 60px;
+    background-color: rgb(109, 208, 233);
+}
+/* header wrap end */
+/* blog wrap start */
+section{
+    overflow: hidden;
+}
+.blog-wrap{
+    width: 50%;
+    float: left;
+    background-color: slateblue;
+    min-height: 400px;
+}
+/* blog-wrap end */
+/* contact wrap start */
+.contact-wrap{
+    width: 50%;
+    float: left;
+    min-height: 400px;
+    background-color: rgb(178, 81, 187);
+}
+/* contact wrap end */
+/* footer wrap start */
+.footer-wrap{
+    min-height: 60px;
+    background-color: black;
+}
+
+/* footer wrap end */
+
+
